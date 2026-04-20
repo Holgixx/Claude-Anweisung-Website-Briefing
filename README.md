@@ -6,7 +6,8 @@ Zielgruppe: Mittelständige Maschinenbauunternehmen, Recruiter, Personal Mitarbe
 Seiten: Startseite, Über mich, Dienstleistungen, Kontakt, Impressum
 Stil: warm, natürlich, minimalistisch
 Farben: orange (#F0A305), Schieferblau (#4D687D), silver Birch (#BAC7CC)
-Tonalität: praxisnah, lösungsorientiert – direkt
+Tonalität: praxisnah, lösungsorientiert – direkt.
+
 Benutze in den Formulierungen keine Gedankenstriche. "–"
 
 Technisch: eine HTML-Datei, kein Framework, mobilfreundlich, Burger-Menü.
