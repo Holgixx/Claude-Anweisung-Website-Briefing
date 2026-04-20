@@ -2,10 +2,15 @@
 persönliche Präferenz für Claude Antwortberücksichtigung bei "lade Website Briefing"
 Erstelle mir ein Website-Briefing. Noch keinen Code.
 Zweck: Vertrauen aufbauen, Dienstleistung zeigen, Kontakt ermöglichen.
+
 Zielgruppe: Mittelständige Maschinenbauunternehmen, Recruiter, Personal Mitarbeiter, ständig auf der Suche nach guten CAD-Fachkräften, mögen Klare Strukturen und gute Workflows.
+
 Seiten: Startseite, Über mich, Dienstleistungen, Kontakt, Impressum
+
 Stil: warm, natürlich, minimalistisch
+
 Farben: orange (#F0A305), Schieferblau (#4D687D), silver Birch (#BAC7CC)
+
 Tonalität: praxisnah, lösungsorientiert – direkt.
 
 Benutze in den Formulierungen keine Gedankenstriche. "–"
